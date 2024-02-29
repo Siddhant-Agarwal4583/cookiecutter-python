@@ -1,5 +1,6 @@
 {% raw %}
 # /.github/workflows/cruft-update.yml
+# changes to template
 name: Update repository with Cruft
 permissions:
   contents: write
